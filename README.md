@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Web-Application
-Currently designing a tic-tac-toe web app.
+Designed a tic-tac-toe web app via codepen using HTML, CSS, Javascript and JQuery.
 
 To see current progress,please visit https://codepen.io/Josh2018/pen/XVoNPy?editors=0110
 
