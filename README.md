@@ -7,10 +7,10 @@ To see current progress,please visit https://codepen.io/Josh2018/pen/XVoNPy?edit
 
 To play please look at the following instructions:
 
-a) Select either Player X box or Player O box.
+a) Click to select Player X.
 
 b) Make your move and enjoy the game.
 
-c) To play again, click on either of the Player boxes then hit the Reset button.
+c) To play again, Select Player X then hit the Reset button.
 
 d) To reset, click on the Reset button then click on either of the Player boxes and finally click on the Reset button again.
