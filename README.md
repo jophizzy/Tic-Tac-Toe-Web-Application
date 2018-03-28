@@ -13,4 +13,4 @@ b) Make your move and enjoy the game.
 
 c) To play again, Select Player X then hit the Reset button.
 
-d) To reset, click on the Reset button then click on either of the Player boxes and finally click on the Reset button again.
+d) To reset, click on the Reset button then select Player X box and finally hit the Reset button again.
